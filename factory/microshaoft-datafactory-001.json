@@ -1,0 +1,9 @@
+{
+	"name": "microshaoft-datafactory-001",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ae145f7-5e2b-4578-9762-19e720a50ee7",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
